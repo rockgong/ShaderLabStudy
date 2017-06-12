@@ -1,7 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/VSShader01.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Study_01/VertexLambert.shader">
     <Files>
-      <File FileName="Assets/Shaders/VSShader01.shader" Line="24" Column="29" />
+      <File FileName="Assets/Shaders/VSShader01.shader" Line="1" Column="1" />
+      <File FileName="Assets/Shaders/Study_01/VertexLambert.shader" Line="1" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
